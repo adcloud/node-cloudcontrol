@@ -1,0 +1,10 @@
+{
+  "name"          : "cloudcontrol",
+  "description"   : "Cloudcontrol API client",
+  "url"           : "http://github.com/teemow/node-cloudcontrol",
+  "keywords"      : ["cloud", "api", "hosting"],
+  "author"        : "Timo Derstappen <teemow@gmail.com>",
+  "main"          : "./lib/cloudcontrol",
+  "version"       : "0.0.1"
+}
+
