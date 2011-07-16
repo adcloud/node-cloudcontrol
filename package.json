@@ -5,6 +5,6 @@
   "keywords"      : ["cloud", "api", "hosting"],
   "author"        : "Timo Derstappen <teemow@gmail.com>",
   "main"          : "./lib/cloudcontrol",
-  "version"       : "0.0.5"
+  "version"       : "0.0.6"
 }
 
